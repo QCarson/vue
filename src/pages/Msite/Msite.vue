@@ -311,6 +311,7 @@
 <script type="text/ecmascript-6">
 import Swiper from "swiper";
 import 'swiper/css/swiper.css'
+import {mapState} from 'vuex'
 
 
   export default {
